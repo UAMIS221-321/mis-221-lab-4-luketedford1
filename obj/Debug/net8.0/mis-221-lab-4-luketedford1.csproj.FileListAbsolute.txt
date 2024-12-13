@@ -1,0 +1,15 @@
+/Users/luketedford/Documents/Source/repos/labs/mis-221-lab-4-luketedford1/bin/Debug/net8.0/mis-221-lab-4-luketedford1
+/Users/luketedford/Documents/Source/repos/labs/mis-221-lab-4-luketedford1/bin/Debug/net8.0/mis-221-lab-4-luketedford1.deps.json
+/Users/luketedford/Documents/Source/repos/labs/mis-221-lab-4-luketedford1/bin/Debug/net8.0/mis-221-lab-4-luketedford1.runtimeconfig.json
+/Users/luketedford/Documents/Source/repos/labs/mis-221-lab-4-luketedford1/bin/Debug/net8.0/mis-221-lab-4-luketedford1.dll
+/Users/luketedford/Documents/Source/repos/labs/mis-221-lab-4-luketedford1/bin/Debug/net8.0/mis-221-lab-4-luketedford1.pdb
+/Users/luketedford/Documents/Source/repos/labs/mis-221-lab-4-luketedford1/obj/Debug/net8.0/mis-221-lab-4-luketedford1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luketedford/Documents/Source/repos/labs/mis-221-lab-4-luketedford1/obj/Debug/net8.0/mis-221-lab-4-luketedford1.AssemblyInfoInputs.cache
+/Users/luketedford/Documents/Source/repos/labs/mis-221-lab-4-luketedford1/obj/Debug/net8.0/mis-221-lab-4-luketedford1.AssemblyInfo.cs
+/Users/luketedford/Documents/Source/repos/labs/mis-221-lab-4-luketedford1/obj/Debug/net8.0/mis-221-lab-4-luketedford1.csproj.CoreCompileInputs.cache
+/Users/luketedford/Documents/Source/repos/labs/mis-221-lab-4-luketedford1/obj/Debug/net8.0/mis-221-lab-4-luketedford1.sourcelink.json
+/Users/luketedford/Documents/Source/repos/labs/mis-221-lab-4-luketedford1/obj/Debug/net8.0/mis-221-lab-4-luketedford1.dll
+/Users/luketedford/Documents/Source/repos/labs/mis-221-lab-4-luketedford1/obj/Debug/net8.0/refint/mis-221-lab-4-luketedford1.dll
+/Users/luketedford/Documents/Source/repos/labs/mis-221-lab-4-luketedford1/obj/Debug/net8.0/mis-221-lab-4-luketedford1.pdb
+/Users/luketedford/Documents/Source/repos/labs/mis-221-lab-4-luketedford1/obj/Debug/net8.0/mis-221-lab-4-luketedford1.genruntimeconfig.cache
+/Users/luketedford/Documents/Source/repos/labs/mis-221-lab-4-luketedford1/obj/Debug/net8.0/ref/mis-221-lab-4-luketedford1.dll
